@@ -1,0 +1,9 @@
+{
+  "server_url": "203.175.125.213:3083",
+  "base_url": "http://{server_url}",
+  "ws_url": "wss://ws-{server_url}",
+  "whatsapp": "6285183552964",
+  "telegram": "dilxzcode",
+  "channel_url": "https://whatsapp.com/channel/0029VanRJcU7NoaADR1oyb2v",
+  "qris_url": "https://files.catbox.moe/21ymik.jpg"
+}
